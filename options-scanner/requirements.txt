@@ -1,0 +1,8 @@
+git+https://github.com/ebobbyj/stockpile.git#subdirectory=shared
+numpy
+lxml
+streamlit
+tabulate
+yfinance
+schwab-py
+moomoo-api
